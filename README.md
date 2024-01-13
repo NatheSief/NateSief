@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, and skills in general**
 
-- 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio)
+<!--- 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 
 - 📝 I regularly write articles about 42 on [https://github.com/NateSief/42-ressources](https://github.com/NateSief/42-ressources)
 
