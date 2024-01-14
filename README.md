@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Nathan (nate)
 
-## About Myself:
-
 | - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
 |---|---|
 | - Achievements : <img src="https://github.com/NateSief/stock/basdges/libfte.png" title="libft: 125/100" length="150" width="150"></a>
