@@ -1,4 +1,4 @@
-![alt text](https://github.com/NateSief/stock/blob/main/Icarus_fall.png?raw=true)
+![alt text](https://github.com/NateSief/stock/blob/main/luffyg5.png?raw=true)
 
 # Hi 👋, I'm Nathan (nate)
 
