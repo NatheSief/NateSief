@@ -68,4 +68,4 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nate.sief&theme=dark&hide_border=false)<br/>
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=nate.sief&theme=dark&hide_border=false)<br/>
