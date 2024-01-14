@@ -2,15 +2,22 @@
 
 # Hi 👋, I'm Nathan (nate)
 
-## About Myself :
-- I'm a student at 42 Paris
+## About Myself:
 
-- 🌱 I’m currently learning **C, C++, and skills in general**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@nate.)
-
-- 💬 Ask me about **how is 42** 
-
+| - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
+|---|---|
+| - Achievements : <img src="https://github.com/NateSief/stock/basdges/libfte.png" title="libft: 125/100" length="150" width="150"></a>
+| <img src="https://github.com/NateSief/stock/basdges/get_next_linen.png" title="GNL: 100/100" length="150" width="150"></a>
+| <img src="https://github.com/NateSief/stock/basdges/ft_printfe.png" title="Ft_printf: 100/100" length="150" width="150"></a>
+| <img src="https://github.com/NateSief/stock/basdges/born2beroote.png" title="B2B: 110/100" length="150" width="150"></a>
+| <img src="https://github.com/NateSief/stock/basdges/pushswape.png" title="Pswap: 83/100" length="150" width="150"></a>
+|---|
+- 🌱 I’m currently learning **C, C++, and skills in general**|
+|---|
+- 📝 I regularly write articles on [Medium](https://medium.com/@nate.) |
+|---|
+- 💬 Ask me about **how is 42** |
+|---|
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
 ## Actual Projects :
