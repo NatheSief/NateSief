@@ -5,18 +5,15 @@
 | - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
 |---|---|
 
-| - Achievements :  
-1st Circle :<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100">
-
-2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkn.png"  title="Minitalk: en cours" length="100" width="100"><img src="./badges/so_longn.png"  title="So-long : en cours" length="100" width="100"> 
-
+- Achievements :  
+**1st Circle :**<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
+2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkn.png"  title="Minitalk: en cours" length="100" width="100"><img src="./badges/so_longn.png"  title="So-long : en cours" length="100" width="100"> </br>
 3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : a venir" length="100" width="100">
-- 🌱 I’m currently learning **C, C++, and skills in general**| 
-|---|
-- 📝 I regularly write articles on [Medium](https://medium.com/@nate.) |
-|---|
-- 💬 Ask me about **how is 42** |
-|---|
+
+---
+- 🌱 I’m currently learning **C, C++, and skills in general**
+- 📝 I regularly write articles on [Medium](https://medium.com/@nate.)
+- 💬 Ask me about **how is 42**
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
 ## Actual Projects :
