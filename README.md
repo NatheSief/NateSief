@@ -1,4 +1,9 @@
+<link href="./style/readme.css" rel="stylesheet"></link>
+
 # Hi 👋, I'm Nathan (nate)
+
+<img src = "./img/Icarus.png" alt="La Chute d'Icare" class = "image">
+
 ## I'm a student at 42 Paris
 
 - 🔭 I’m currently working on [42 common core](https://github.com/NateSief/42-paris.git)
@@ -10,6 +15,9 @@
 - 📝 I regularly write articles about 42 on [https://github.com/NateSief/42-ressources](https://github.com/NateSief/42-ressources)
 
 - 💬 Ask me about **how is 42**
+
+# Important repo : 
+## 42-repos
 
 # Connect with me:
 <p align="left">
