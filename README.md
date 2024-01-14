@@ -2,28 +2,56 @@
 
 # Hi 👋, I'm Nathan (nate)
 
-## I'm a student at 42 Paris
-
-### Actual Projects :
-- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)
-
-- [2d Game](https://github.com/NateSief/so_long.git) </br> 
-   **TECH USED :**  
-   Langage : ![alt text](https://github.com/NateSief/stock/blob/main/c-line.svg?raw=true)
-   Tools : 
-   - Minilibx (a graphic library provided by 42) </br>
-   - 
+## About Myself :
+- I'm a student at 42 Paris
 
 - 🌱 I’m currently learning **C, C++, and skills in general**
 
-<!--- 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
+- 📝 I regularly write articles on [Medium](https://medium.com/@nate.)
 
-- 📝 I regularly write articles about 42 on [https://github.com/NateSief/42-ressources](https://github.com/NateSief/42-ressources)
+- 💬 Ask me about **how is 42** 
 
-- 💬 Ask me about **how is 42**
+<!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
+---
+## Actual Projects :
+- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
+  **TECH USED :**
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
+  Tools :
+  - Libft (The first project a 42 ; a library of basic functions in C)
+  - Vs-Code
+  - Copilot
+  - Github
+  - 
+  Challenges of these projects :
+  - Learn new notions in C, C++, Web, IT, ...
+  - Finish the CC in less than a year
+  - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
+  - Help others to go forward and share my knowledges
+---
+- [2d Game ](https://github.com/NateSief/so_long.git) (In the style of Terraria but not Terraria)</br> 
+  **TECH USED :**  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
+  Tools : 
+  - Minilibx (a graphic library provided by 42) </br
+  - 
+  Challenges of the project :
+  - Code a game with complex features at the 42 norm.
+  - Don't use a proper game engine, but do everything by myself.
+
+---
 
 # Important repo : 
 ## 42-repos
+
+- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git) </br>
+- 📖 [42-ressources](https://github.com/NateSief/42-ressources) </br>
+
+## Personals projects
+- 🚧 [Personnal website]() (construction zone there hehe)
+- 👾 [2d Game ](https://github.com/NateSief/so_long.git) (Actually working on it on local but soon I'll push things)
+
 
 # Connect with me:
 <p align="left">
