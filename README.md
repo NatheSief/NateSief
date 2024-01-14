@@ -3,11 +3,11 @@
 # Hi 👋, I'm Nathan (nate)
 
 ## About Myself :
-- I'm a student at 42 Paris
+- 🎓 I'm a student at 42 Paris
 
 - 🌱 I’m currently learning **C, C++, and skills in general**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@nate.)
+- 📝 I try to write articles on [Medium](https://medium.com/@nate.)
 
 - 💬 Ask me about **how is 42** 
 
