@@ -4,11 +4,11 @@
 
 | - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
 |---|---|
-| - Achievements : <img src="https://github.com/NateSief/stock/tree/main/badges/libfte.png" title="libft: 125/100" length="150" width="150"></a>
-| <img src="https://github.com/NateSief/stock/tree/main/badges/get_next_linen.png" title="GNL: 100/100" length="150" width="150"></a>
-| <img src="https://github.com/NateSief/stock/tree/main/badges/ft_printfe.png" title="Ft_printf: 100/100" length="150" width="150"></a>
-| <img src="https://github.com/NateSief/stock/tree/main/badges/born2beroote.png" title="B2B: 110/100" length="150" width="150"></a>
-| <img src="https://github.com/NateSief/stock/tree/main/badges/pushswape.png" title="Pswap: 83/100" length="150" width="150"></a>
+| - Achievements : <img src="https://github.com/NateSief/stock/tree/main/badges/libfte.png" title="libft: 125/100" length="150" width="150">
+| <img src="https://github.com/NateSief/stock/tree/main/badges/get_next_linen.png" title="GNL: 100/100" length="150" width="150">
+| <img src="https://github.com/NateSief/stock/tree/main/badges/ft_printfe.png" title="Ft_printf: 100/100" length="150" width="150">
+| <img src="https://github.com/NateSief/stock/tree/main/badges/born2beroote.png" title="B2B: 110/100" length="150" width="150">
+| <img src="https://github.com/NateSief/stock/tree/main/badges/pushswape.png" title="Pswap: 83/100" length="150" width="150">
 |---|
 - 🌱 I’m currently learning **C, C++, and skills in general**|
 |---|
