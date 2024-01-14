@@ -37,7 +37,7 @@
   **TECH USED :**  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Tools : 
-  - Minilibx (a graphic library provided by 42) </br
+  - Minilibx (a graphic library provided by 42) </br>
   - 
   Challenges of the project :
   - Code a game with complex features at the 42 norm.
