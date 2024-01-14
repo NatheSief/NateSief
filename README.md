@@ -1,4 +1,4 @@
-![alt text](https://github.com/NateSief/stock/blob/main/luffyg5.png?raw=true)
+<img src="./imgs/luffyg5.png" title="Banner">
 
 # Hi 👋, I'm Nathan (nate)
 
