@@ -12,7 +12,7 @@
 
 ---
 - 🌱 I’m currently learning **C, C++, and skills in general**
-- 📝 I regularly write articles on [Medium](https://medium.com/@nate.)
+- 📝 I will try to write articles on [Medium](https://medium.com/@nate.) about stuff I learn in CS
 - 💬 Ask me about **how is 42**
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
