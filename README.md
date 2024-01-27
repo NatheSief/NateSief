@@ -5,10 +5,13 @@
 | - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
 |---|---|
 
-- Achievements :  
-**1st Circle :**<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
-2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkn.png"  title="Minitalk: en cours" length="100" width="100"><img src="./badges/so_longn.png"  title="So-long : en cours" length="100" width="100"> </br>
-3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : a venir" length="100" width="100">
+<details>
+<summary> <h2>Achievements : </h2> </summary>
+<li> 1st Circle :<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
+<li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkn.png"  title="Minitalk: en cours" length="100" width="100"><img src="./badges/so_longn.png"  title="So-long : en cours" length="100" width="100"> </br>
+<li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : a venir" length="100" width="100">
+
+</details>
 
 ---
 - 🌱 I’m currently learning **C, C++, and skills in general**
@@ -16,9 +19,10 @@
 - 💬 Ask me about **how is 42**
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
-## Actual Projects :
-- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
-  **TECH USED :**
+<details>
+<summary><h2> Actual Projects :</h2> </summary>
+<li> - 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
+  TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Tools :
@@ -33,8 +37,8 @@
   - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
   - Help others to go forward and share my knowledges
 ---
-- [2d Game ](https://github.com/NateSief/so_long.git) (In the style of Terraria but not Terraria)</br> 
-  **TECH USED :**  
+<li> - [2d Game ](https://github.com/NateSief/so_long.git) (In the style of Terraria but not Terraria)</br> 
+     TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Tools : 
   - Minilibx (a graphic library provided by 42) </br>
@@ -44,6 +48,7 @@
   - Don't use a proper game engine, but do everything by myself.
 
 ---
+</details>
 
 # Important repo : 
 ## 42-repos
