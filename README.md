@@ -22,7 +22,7 @@
 ---
 <details>
 <summary><h2> Actual Projects :</h2> </summary>
-<li> - 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
+<li> 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
   TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
@@ -44,7 +44,7 @@
   - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
   - Help others to go forward and share my knowledges
 ---
-<li> - [2d Game ](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)</br> 
+<li> 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)</br> 
      TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Actual advancment :
@@ -58,7 +58,7 @@
   - Don't use a proper game engine, but do everything by myself.
 
 ---
-<li> - Personnal website 
+<li> 🚧 Personnal website </br>
     TECH USED : 
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CSS3" widht="40" height="40"> <!--- HTML5-->
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> </br> <!--- CSS-->
