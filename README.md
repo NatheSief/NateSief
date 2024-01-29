@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning **C, C++, and skills in general**
 - 📝 I will try to write articles on [Medium](https://medium.com/@nate.) about stuff I learn in CS
 - 💬 Ask me about **how is 42**
+- Starting CTF challenges
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
 <details>
@@ -25,29 +26,43 @@
   TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
+
+  Currect Advencment :
+  - 1st circle : Done
+  - 2nd circle : Everything finished but I have to push and validate it
+  - 3rd circle : Waiting for my mate to start Minishell, and philosophers in preparation
+  - 4st circle : Beggining Cube3d, waiting for starting CPP pool and NetPractice 
+  
   Tools :
-  - Libft (The first project a 42 ; a library of basic functions in C)
-  - Vs-Code
-  - Copilot
-  - Github
-  - 
+  - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything usefull in my eyes)
+  - Vs-Code (I'll move on helix or vim in a few times)
+  - Github (Learning how to be efficient with Github, and how to use all the functionalities possible)
+
   Challenges of these projects :
   - Learn new notions in C, C++, Web, IT, ...
   - Finish the CC in less than a year
   - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
   - Help others to go forward and share my knowledges
 ---
-<li> - [2d Game ](https://github.com/NateSief/so_long.git) (In the style of Terraria but not Terraria)</br> 
+<li> - [2d Game ](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)</br> 
      TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
+  Actual advancment :
+  - A 2d basic game, without leaks, where you can move in a defined map to collect items before exiting the map.
+  
   Tools : 
   - Minilibx (a graphic library provided by 42) </br>
-  - 
+  
   Challenges of the project :
-  - Code a game with complex features at the 42 norm.
+  - Code a game with complex features at the 42 norm (not all the norm, but the big contraints)
   - Don't use a proper game engine, but do everything by myself.
 
 ---
+<li> - Personnal website 
+    TECH USED : 
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CSS3" widht="40" height="40"> <!--- HTML5-->
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> </br> <!--- CSS-->
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CSS3" widht="40" height="40"> <!--- JS-->
 </details>
 
 # Important repo : 
@@ -58,7 +73,8 @@
 
 ## Personals projects
 - 🚧 [Personnal website]() (construction zone there hehe)
-- 👾 [2d Game ](https://github.com/NateSief/so_long.git) (Actually working on it on local but soon I'll push things)
+- 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (Actually working on it on local but soon I'll push things)
+- 🥷🏻 CTF learning -> Waiting to have some data to share, on what I've learned on this subject before spreading it
 
 
 # Connect with me:
