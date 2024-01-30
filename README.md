@@ -48,7 +48,10 @@
      TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Actual advancment :
-  - A 2d basic game, without leaks, where you can move in a defined map to collect items before exiting the map.
+  - A 2d basic game, without leaks, where you can move in a defined map to collect items before exiting the map.</br>
+  
+  To ADD :
+  - Map generation, new textures, map modification, player statistics</br>
   
   Tools : 
   - Minilibx (a graphic library provided by 42) </br>
@@ -61,7 +64,7 @@
 <li> 🚧 Personnal website </br>
     TECH USED : 
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CSS3" widht="40" height="40"> <!--- HTML5-->
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> </br> <!--- CSS-->
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> <!--- CSS-->
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CSS3" widht="40" height="40"> <!--- JS-->
 </details>
 
