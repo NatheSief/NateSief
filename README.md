@@ -22,7 +22,7 @@
 ---
 <details>
 <summary><h2> Actual Projects :</h2> </summary>
-<li> 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)</br>
+<li> 👨‍💻 [42_common_core](https://github.com/NateSief/42-paris.git)</br>
   TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
@@ -44,7 +44,7 @@
   - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
   - Help others to go forward and share my knowledges
 ---
-<li> 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)</br> 
+<li> 👾 [2d_Game](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)</br> 
      TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Actual advancment :
