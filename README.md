@@ -1,102 +1,106 @@
-<img src="./imgs/luffyg5.png" title="Banner">
+![Banner](./imgs/luffyg5.png)
 
-# Hi 👋, I'm Nathan (nate)
+# Salut! 👋, Je suis Nathan (nate)
 
-| - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
+| - Je suis étudiant à 42 Paris | ![nsiefert's 42 stats](https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off) |
 |---|---|
 
 <details>
-<summary> <h2>Achievements : </h2> </summary>
-<li> 1st Circle :
-<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
-<li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkm.png"  title="Minitalk: 125/125" length="100" width="100"><img src="./badges/so_longe.png"  title="So-long : 100/100" length="100" width="100"> </br>
-<li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : a venir" length="100" width="100">
-
+<summary><h2>Réalisations :</h2></summary>
+<ul>
+  <li>1er Cercle :
+    <img src="./badges/libftm.png" title="Libft: 125/100" length="100" width="100">
+    <img src="./badges/get_next_linee.png" title="GNL: 100/100" length="100" width="100">
+    <img src="./badges/ft_printfe.png" title="Ft-printf: 100/100" length="100" width="100">
+    <img src="./badges/born2beroote.png" title="B2B: 110/100" length="100" width="100">
+  </li>
+  <li>2nd Cercle :
+    <img src="./badges/push_swape.png" title="Push-swap: 83/100" length="100" width="100">
+    <img src="./badges/minitalkm.png" title="Minitalk: 125/125" length="100" width="100">
+    <img src="./badges/so_longe.png" title="So-long : 100/100" length="100" width="100">
+  </li>
+  <li>3rd Cercle :
+    <img src="./badges/minishelln.png" title="Minishell : à venir" length="100" width="100">
+    <img src="./badges/philosophersn.png" title="Philosophers : à venir" length="100" width="100">
+  </li>
+</ul>
 </details>
 
 ---
-- 🌱 I’m currently learning **C, C++, and skills in general**
-- 📝 I will try to write articles on [Medium](https://medium.com/@nate.) about stuff I learn in CS
-- 💬 Ask me about **how is 42**
-- Starting CTF challenges
-<!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
+
+- 🌱 En ce moment, j'apprends **le C, le C++, et des compétences générales**
+- 📝 Je vais essayer d'écrire des articles sur [Medium](https://medium.com/@nate.) sur des sujets que j'apprends en informatique
+- 💬 Posez-moi des questions sur **la vie à 42**
+- Début des défis CTF
+
 ---
+
 <details>
-<summary><h2> Actual Projects :</h2> </summary>
+<summary><h2>Projets actuels :</h2></summary>
+
 - 👨‍💻 [42_common_core](https://github.com/NateSief/42-paris.git)
-  TECH USED :
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
-
-  Currect Advencment :
-  - 1st circle : Done
-  - 2nd circle : Done (just have to push Minitalk at 125 and repush Push_Swap to get 125)
-  - 3rd circle : Waiting for my mate to start Minishell, and philosophers in preparation
-  - 4st circle : Beggining Cube3d, waiting for starting CPP pool and NetPractice 
-  
-  Tools :
-  - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything usefull in my eyes)
-  - Vs-Code (I'll move on helix or vim in a few times)
-  - Github (Learning how to be efficient with Github, and how to use all the functionalities possible)
-
-  Challenges of these projects :
-  - Learn new notions in C, C++, Web, IT, ...
-  - Finish the CC in less than a year
-  - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
-  - Help others to go forward and share my knowledges
----
-- 👾 [2d_Game](https://github.com/NateSief/2d_game.git) (In the style of Terraria but not Terraria)
-     TECH USED :  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
-  Actual advancment :
-  - A 2d basic game, without leaks, where you can move in a defined map to collect items before exiting the map.</br>
-  
-  To ADD :
-  - Map generation, new textures, map modification, player statistics</br>
-  
-  Tools : 
-  - Minilibx (a graphic library provided by 42) </br>
-  
-  Challenges of the project :
-  - Code a game with complex features at the 42 norm (not all the norm, but the big contraints)
-  - Don't use a proper game engine, but do everything by myself.
+  <br>**Technologies utilisées :**
+  <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
+  <br>
+  <br>**Avancement actuel :**
+  <br>- 1er cercle : Terminé
+  <br>- 2nd cercle : Terminé (il me reste juste à valider Minitalk à 125 et repousser Push_Swap à 125)
+  <br>- 3ème cercle : En attente de mon camarade pour commencer Minishell et préparation des philosophes
+  <br>- 4ème cercle : Début de Cube3d, en attente de commencer le pool CPP et NetPractice
+  <br>
+  <br>**Outils :**
+  <br>- Libft
+  <br>- Vs-Code
+  <br>- Github
+  <br>
+  <br>**Défis de ces projets :**
+  <br>- Apprendre de nouveaux concepts en C, C++, Web, IT, etc.
+  <br>- Terminer le Core Commun en moins d'un an
+  <br>- Utiliser la créativité dans les projets qui permettent la liberté de conception
+  <br>- Aider les autres et partager les connaissances
 
 ---
-<li> 🚧 Personnal website </br>
-    TECH USED : 
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CSS3" widht="40" height="40"> <!--- HTML5-->
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> <!--- CSS-->
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CSS3" widht="40" height="40"> <!--- JS-->
+
+- 👾 [2d_Game](https://github.com/NateSief/2d_game.git) (Dans le style de Terraria mais pas Terraria)
+  <br>**Technologies utilisées :**
+  <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
+  <br>
+  <br>**Avancement actuel :**
+  <br>- Un jeu 2D de base, sans fuites mémoire, où vous pouvez vous déplacer dans une carte définie pour collecter des objets avant de sortir de la carte.
+  <br>
+  <br>**À AJOUTER :**
+  <br>- Génération de carte, nouvelles textures, modification de la carte, statistiques du joueur
+  <br>
+  <br>**Outils :**
+  <br>- Minilibx (une bibliothèque graphique fournie par 42)
+  <br>
+  <br>**Défis du projet :**
+  <br>- Coder un jeu avec des fonctionnalités complexes dans la norme 42 (pas toute la norme, mais les grandes contraintes)
+  <br>- Ne pas utiliser de moteur de jeu propre, mais tout faire soi-même
+
+---
+
+- 🚧 Site web personnel
+  <br>**Technologies utilisées :**
+  <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20" height="20"/>
 </details>
 
-# Important repo : 
+# Dépôts importants :
+
 ## 42-repos
 
-- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git) </br>
-- 📖 [42-ressources](https://github.com/NateSief/42-ressources) </br>
+- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)
+- 📖 [42-ressources](https://github.com/NateSief/42-ressources)
 
-## Personals projects
-- 🚧 [Personnal website]() (construction zone there hehe)
-- 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (Actually working on it on local but soon I'll push things)
-- 🥷🏻 CTF learning -> Waiting to have some data to share, on what I've learned on this subject before spreading it
+## Projets personnels
 
+- 🚧 [Site web personnel]() (en cours de construction)
+- 👾 [Jeu 2D](https://github.com/NateSief/2d_game.git) (actuellement en travail local, sera poussé bientôt)
+- 🥷🏻 Apprentissage CTF -> En attente de collecter des données avant de partager mes connaissances sur ce sujet
 
-# Connect with me:
+# Connectez-vous avec moi :
 <p align="left">
-<a href="https://medium.com/@nate." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nate." height="60" width="80" /></a>
-</p>
-
-# Languages and Tools:
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-'
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
-# 📊 GitHub Stats:
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=nate.sief&theme=dark&hide_border=false)<br/>
+  <a href="https://medium.com/@nate." target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nate." height="40" width="40" />
