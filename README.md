@@ -6,24 +6,21 @@
 |---|---|
 
 <details>
-<summary><h2>Réalisations :</h2></summary>
-<ul>
-  <li>1er Cercle :
-    <img src="./badges/libftm.png" title="Libft: 125/100" length="100" width="100">
-    <img src="./badges/get_next_linee.png" title="GNL: 100/100" length="100" width="100">
-    <img src="./badges/ft_printfe.png" title="Ft-printf: 100/100" length="100" width="100">
-    <img src="./badges/born2beroote.png" title="B2B: 110/100" length="100" width="100">
-  </li>
-  <li>2nd Cercle :
-    <img src="./badges/push_swape.png" title="Push-swap: 83/100" length="100" width="100">
-    <img src="./badges/minitalkm.png" title="Minitalk: 125/125" length="100" width="100">
-    <img src="./badges/so_longe.png" title="So-long : 100/100" length="100" width="100">
-  </li>
-  <li>3rd Cercle :
-    <img src="./badges/minishelln.png" title="Minishell : à venir" length="100" width="100">
-    <img src="./badges/philosophersn.png" title="Philosophers : à venir" length="100" width="100">
-  </li>
-</ul>
+<summary><h2>42 - Achievments :</h2></summary>
+| **Cercle** | **Projet** | **Badge** | **Note** | **Lien du repo git** |
+|------------|------------|-----------|----------|----------------------|
+| 1er        | Libft      | ![Libft Badge](./badges/libftm.png) | 125/100 | [Repo Libft](https://github.com/NateSief/Libft.git) |
+| 1er        | Get Next Line | ![GNL Badge](./badges/get_next_linee.png) | 100/100 | [Repo GNL](https://github.com/NateSief/Get_Next_Line.git) |
+| 1er        | Ft-printf  | ![Printf Badge](./badges/ft_printfe.png) | 100/100 | [Repo Ft-printf](https://github.com/NateSief/Ft_printf.git) |
+| 1er        | Born2BeRoot| ![B2B Badge](./badges/born2beroote.png) | 110/100 | [Repo Born2BeRoot](https://github.com/NateSief/Born2BeRoot.git) |
+|------------|------------|-----------|----------|----------------------|
+| 2nd        | Push-swap  | ![Push-swap Badge](./badges/push_swape.png) | 83/100 | [Repo Push-swap](https://github.com/NateSief/Push_swap.git) |
+| 2nd        | Minitalk   | ![Minitalk Badge](./badges/minitalkm.png) | 125/125 | [Repo Minitalk](https://github.com/NateSief/Minitalk.git) |
+| 2nd        | So-long    | ![So-long Badge](./badges/so_longe.png) | 100/100 | [Repo So-long](https://github.com/NateSief/So-long.git) |
+|------------|------------|-----------|----------|----------------------|
+| 3rd        | Minishell  | ![Minishell Badge](./badges/minishelln.png) | à venir | [Repo Minishell](https://github.com/NateSief/Minishell.git) |
+| 3rd        | Philosophers | ![Philosophers Badge](./badges/philosophersn.png) | à venir | [Repo Philosophers](https://github.com/NateSief/Philosophers.git) |
+
 </details>
 
 ---
@@ -44,8 +41,8 @@
   <br>
   <br>**Avancement actuel :**
   <br>- 1er cercle : Terminé
-  <br>- 2nd cercle : Terminé (il me reste juste à valider Minitalk à 125 et repousser Push_Swap à 125)
-  <br>- 3ème cercle : En attente de mon camarade pour commencer Minishell et préparation des philosophes
+  <br>- 2nd cercle : Terminé - Il faut que je rende Push_Swap a 125 pour la forme
+  <br>- 3ème cercle : En attente de mon camarade pour commencer Minishell et préparation de philosophers
   <br>- 4ème cercle : Début de Cube3d, en attente de commencer le pool CPP et NetPractice
   <br>
   <br>**Outils :**
