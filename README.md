@@ -6,6 +6,8 @@
 |---|---|
 
 <details>
+## Presentation :
+My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. You'll find here some tutorials for the 42 projects, testers and presentations of the tools you can/have to use at 42 !
 <summary> <h2>Achievements : </h2> </summary>
 <li> 1st Circle :
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
