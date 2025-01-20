@@ -6,7 +6,7 @@
 |---|---|
 
 <details>
-Presentation : </br>
+Presentation - 42 Cursus: </br>
 My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. You'll find here some tutorials for the 42 projects, testers and presentations of the tools you can/have to use at 42 !
 <summary> <h2>Achievements : </h2> </summary>
 <li> 1st Circle :
@@ -25,7 +25,7 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 ---
 <details>
 <summary><h2> Actual Projects :</h2> </summary>
-  - 👨‍💻 ![42_common_core](https://github.com/NateSief/42-paris.git)
+  - 👨‍💻 [42_common_core](https://github.com/NateSief/42-paris.git)
     TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
@@ -38,12 +38,12 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
   
   Tools :
   - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything usefull in my eyes)
-  - Vs-Code (I'll move on helix or vim in a few times)
+  - Vs-Code/Nvim (depending the mood and the project)
   - Github (Learning how to be efficient with Github, and how to use all the functionalities possible)
 
   Challenges of these projects :
   - Learn new notions in C, C++, Web, IT, ...
-  - Finish the CC in less than a year
+  - Finish the CC in less than two years
   - Use all my creativity in the projects that give me liberty in how much I can pimp things (see the 2d game)
   - Help others to go forward and share my knowledges
 ---
