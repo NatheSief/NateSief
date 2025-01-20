@@ -15,7 +15,7 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 <li>3rd Circle : <img src="./badges/minishellm.png"  title="Minishell : 101/100" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : 100/100" length="100" width="100"> </br>
 <li>4th Circle : <img src="./badges/cub3de.png" title="Cub3d : Incoming" length="100" width="100"> <img src="./badges/netpracticem.png" title="Net Practice: 100/100" length="100" width="100"><img src="./badges/cppe.png" title="CPP : 0/5 Incoming" length="100" width="100">
 <li>5th Circle : <img src="./badges/cppe.png" title="CPP : 0/5 Incoming" length="100" width="100"><img src="./badges/ft_irce.png" title="IRC : Incoming" length="100" width="100"><img src="./badges/inceptione.png" title="Inception : Incoming" length="100" width="100">
-<li>6th Circle : <img src="./badges/ft_transcendancee.png" title="CPP : Incoming" length="100" width="100">
+<li>6th Circle : <img src="./badges/transcendancee.png" title="Transcendance : Incoming" length="100" width="100">
 </details>
 
 ---
