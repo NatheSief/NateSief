@@ -12,7 +12,7 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 <li> 1st Circle :
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
 <li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkm.png"  title="Minitalk: 125/125" length="100" width="100"><img src="./badges/so_longe.png"  title="So-long : 100/100" length="100" width="100"> </br>
-<li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : 101/100" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : 100/100" length="100" width="100"> </br>
+<li>3rd Circle : <img src="./badges/minishellm.png"  title="Minishell : 101/100" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : 100/100" length="100" width="100"> </br>
 <li>4th Circle " <img = src"./badges/cub3de.png" title="Cub3d : Incoming" length="100" width="100"> <img = src"./badges/netPracticee.png" title="Net Practice: 100/100" length="100" width="100"><img = src"./badges/cppe.png" title="CPP : 0/5 Incoming" length="100" width="100">
 </details>
 
