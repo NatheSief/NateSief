@@ -101,4 +101,4 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 </p>
 
 # 📊 GitHub Stats:
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=nate.sief&theme=dark&hide_border=false)<br/>
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=nathesief&theme=dark&hide_border=false)<br/>
