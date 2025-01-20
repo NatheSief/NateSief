@@ -12,15 +12,13 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 <li> 1st Circle :
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
 <li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkm.png"  title="Minitalk: 125/125" length="100" width="100"><img src="./badges/so_longe.png"  title="So-long : 100/100" length="100" width="100"> </br>
-<li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosopherse.png"  title="Philosophers : 100/100" length="100" width="100">
-
+<li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : 101/100" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : 100/100" length="100" width="100"> </br>
+<li>4th Circle " <img = src"./badges/cub3de.png" title="Cub3d : Incoming" length="100" width="100"> <img = src"./badges/netPracticee.png" title="Net Practice: 100/100" length="100" width="100"><img = src"./badges/cppe.png" title="CPP : 0/5 Incoming" length="100" width="100">
 </details>
 
 ---
 - 🌱 I’m currently learning **C, C++, and skills in general**
-- 📝 I will try to write articles on [Medium](https://medium.com/@nate.) about stuff I learn in CS
 - 💬 Ask me about **how is 42**
-- Starting CTF challenges
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
 <details>
@@ -33,8 +31,8 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
   Currect Advencment :
   - 1st circle : Done
   - 2nd circle : Done (just have to push Minitalk at 125 and repush Push_Swap to get 125)
-  - 3rd circle : Waiting for my mate to start Minishell, and philosophers in preparation
-  - 4st circle : Beggining Cube3d, waiting for starting CPP pool and NetPractice 
+  - 3rd circle : Done
+  - 4st circle : NetPractice done, finishing Cube3d, waiting for starting CPP piscine 
   
   Tools :
   - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything usefull in my eyes)
