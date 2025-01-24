@@ -1,14 +1,13 @@
 <img src="./imgs/luffyg5.png" title="Banner">
 
-# Hi 👋, I'm Nathan (nate)
+# Hi 👋, I'm Nathe
 
-| - I'm a student at 42 Paris | <img src="https://badge.mediaplus.ma/starryblue/nsiefert?1337Badge=off&UM6P=off" alt="nsiefert's 42 stats"/> |
-|---|---|
+> Actually learning C++ for 42 projects and also game-dev with VulkanAPI and OpenGL
 
 <details>
-Presentation - 42 Cursus: </br>
+Presentation</br>
 My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. You'll find here some tutorials for the 42 projects, testers and presentations of the tools you can/have to use at 42 !
-<summary> <h2>Achievements : </h2> </summary>
+<summary> <h2>Achievements at 42 : </h2> </summary>
 <li> 1st Circle :
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
 <li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkm.png"  title="Minitalk: 125/125" length="100" width="100"><img src="./badges/so_longe.png"  title="So-long : 100/100" length="100" width="100"> </br>
@@ -34,10 +33,10 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
   - 1st circle : Done
   - 2nd circle : Done (just have to push Minitalk at 125 and repush Push_Swap to get 125)
   - 3rd circle : Done
-  - 4st circle : NetPractice done, finishing Cube3d, waiting for starting CPP piscine 
+  - 4st circle : NetPractice done, finishing Cube3d, and doing CPP piscine 
   
   Tools :
-  - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything usefull in my eyes)
+  - Libft (The first project a 42 ; a library of basic functions in C. Updating it with everything I consider usefull)
   - Vs-Code/Nvim (depending the mood and the project)
   - Github (Learning how to be efficient with Github, and how to use all the functionalities possible)
 
@@ -55,13 +54,14 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
   
   To ADD :
   - Map generation, new textures, map modification, player statistics</br>
+  - Coding my own game engine in C to run the further versions of this game </br>
   
   Tools : 
   - Minilibx (a graphic library provided by 42) </br>
   
   Challenges of the project :
   - Code a game with complex features at the 42 norm (not all the norm, but the big contraints)
-  - Don't use a proper game engine, but do everything by myself.
+  - Working as much as I can with the Minilibx or doing everything by hand, with a readable and optimised code
 
 ---
 <li> 🚧 Personnal website </br>
@@ -75,18 +75,13 @@ My name is Nathe, and I'm a 42-Paris student ! I'm from the summer 2023 cohort. 
 ## 42-repos
 
 - 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git) </br>
-- 📖 [42-ressources](https://github.com/NateSief/42-ressources) </br>
 
 ## Personals projects
 - 🚧 [Personnal website]() (construction zone there hehe)
 - 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (Actually working on it on local but soon I'll push things)
-- 🥷🏻 CTF learning -> Waiting to have some data to share, on what I've learned on this subject before spreading it
 
 
 # Connect with me:
-<p align="left">
-<a href="https://medium.com/@nate." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nate." height="60" width="80" /></a>
-</p>
 
 # Languages and Tools:
 <p align="left"> 
